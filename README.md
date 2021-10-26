@@ -7,6 +7,5 @@
 
 Examples of GAN art:
 
-![1](https://user-images.githubusercontent.com/74296883/138849133-ca95cea2-bd0b-4e5d-93c9-d3429e304535.png)
-![2](https://user-images.githubusercontent.com/74296883/138849148-fbbbf086-3891-475b-999a-a9854bc1a58d.png)
-![3](https://user-images.githubusercontent.com/74296883/138849193-7854ef27-bd81-4ee4-bf8b-632c146d8d07.png)
+![x4](https://user-images.githubusercontent.com/74296883/138862894-58ebada9-aa3e-4750-970f-20e4864cb075.jpg)
+![x4-2](https://user-images.githubusercontent.com/74296883/138862925-e56755c2-e3bb-4f7f-a17b-aeabb1e3ea06.jpg)
