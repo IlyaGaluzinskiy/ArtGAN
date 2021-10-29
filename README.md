@@ -9,3 +9,8 @@ Examples of GAN art:
 
 ![x4](https://user-images.githubusercontent.com/74296883/138862894-58ebada9-aa3e-4750-970f-20e4864cb075.jpg)
 ![x4-2](https://user-images.githubusercontent.com/74296883/138862925-e56755c2-e3bb-4f7f-a17b-aeabb1e3ea06.jpg)
+
+#### This project was completed in 10 days by:
+- https://github.com/IlyaGaluzinskiy
+- https://github.com/plazinho
+- https://github.com/aabdysheva
